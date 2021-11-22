@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/frmdeveloper/frmdeveloper.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cara Membongkar Dan Memasang Transmisi
+___
+### Langkah pembongkaran
+- Lepas transmisi dari kendaraan
+- Lepaskan semua baut pengikat transmisi
 
 ### Markdown
 
