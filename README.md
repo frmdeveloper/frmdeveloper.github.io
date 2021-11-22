@@ -3,6 +3,23 @@ ___
 ### Langkah pembongkaran
 - Lepas transmisi dari kendaraan
 - Lepaskan semua baut pengikat transmisi
+- Tarik keluar transmisi kearah belakang
+- Turunkan transmisi dari kendaraan
+- Membongkar transmisi
+- Melepas retainer tuas pemindah
+- Membuka rakitan penutup bak transmisi
+- Melepas clucth housing
+- Melepas retainer bering depan
+- Melepas exsention housing
+- Melepas reverse idler gear. Poros, dan penggerak
+- Mengukur celsh counter gear
+- Celah STD 0,10-0,30mm
+- Clah max 0,30 mm
+- Melepas poros couter gear dan pengunci
+- Melepas rakitan poros output
+- Melepas poros input
+- Melepas counter gear dengan SST
+
 
 ### Markdown
 
