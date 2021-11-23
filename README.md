@@ -1,5 +1,6 @@
 ## Cara Membongkar Dan Memasang Transmisi
 ___
+![komponen-transmisi-manual-1](https://www.otoflik.com/wp-content/uploads/2020/01/TRANSMISI-MANUAL.jpg)
 ### Langkah pembongkaran
 - Lepas transmisi dari kendaraan
 - Lepaskan semua baut pengikat transmisi
