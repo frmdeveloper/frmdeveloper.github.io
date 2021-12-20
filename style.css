@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://img.wallpaper.sc/iphonexsmax/images/1242x2688/iPhoneXSMax-1242x2688-wallpaper_00896.jpg") no-repeat center;
+    background: url("https://cdn.kibrispdr.org/data/background-hijau-daun-9.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
