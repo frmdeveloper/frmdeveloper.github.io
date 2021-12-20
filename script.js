@@ -3,8 +3,10 @@ $(document).ready(function(){
         // sticky navbar on scroll script
         if(this.scrollY > 20){
             $('.navbar').addClass("sticky");
+            $('#warnaheader').attr('content', '#66bb6a')
         }else{
             $('.navbar').removeClass("sticky");
+            $('#warnaheader').attr('content', '#')
         }
         
         // scroll-up button show/hide script
